@@ -25,8 +25,8 @@ This is the result of challenge.
 
 ### Links
 
-- Solution: [Git Hub](https://your-solution-url.com)
-- Live Site: [Git Hib Pages](https://your-live-site-url.com)
+- Solution: [Git Hub](https://github.com/marco-moya/QR-code-component.git)
+- Live Site: [Git Hib Pages](https://marco-moya.github.io/QR-code-component.git)
 
 ## My process
 
