@@ -26,7 +26,7 @@ This is the result of challenge.
 ### Links
 
 - Solution: [Git Hub](https://github.com/marco-moya/QR-code-component.git)
-- Live Site: [Git Hib Pages](https://marco-moya.github.io/QR-code-component.git)
+- Live Site: [Git Hub Pages](https://marco-moya.github.io/QR-code-component)
 
 ## My process
 
